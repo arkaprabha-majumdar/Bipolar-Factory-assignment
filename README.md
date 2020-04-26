@@ -17,6 +17,9 @@ Crawl news &amp; information websites &amp; anticipate the likelihood of its vir
 # Things that could have been improved:
 
 Taking all of the 21000 articles !
+
 Removing duplicates from the articles (this I discovered AFTER I had completed the 5000 link crawl which took a whole day and 3                                          restarts, so left it to conserve time.)
+
 Trying out other classification algorithms.
+
 Trying an intuitive approach to make a virality score based on number of page clicks(which I couldn't extract unfortunately)
